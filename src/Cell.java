@@ -1,0 +1,9 @@
+
+public enum Cell {
+	OBSTACLE,
+	WHITEWALKER,
+	JOHN,
+	STORE,
+	BLANK,
+	JOHSTOR
+}
